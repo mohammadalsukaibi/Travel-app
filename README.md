@@ -13,7 +13,7 @@ To run the project use:
 
 ## API
 
-3 APIs where used:
+3 APIs where used
 - Geonames
 - Weatherbit
 - Pixabay
